@@ -78,8 +78,8 @@
                     <TextBlock Text="Customer ID:" Margin="0,5"/>
                     <TextBox x:Name="CustomerIdTextBox" Style="{StaticResource RoundedTextBox}" Margin="0,5,0,10"/>
 
-                    <TextBlock Text="Room ID:" Margin="0,5"/>
-                    <TextBox x:Name="RoomIdTextBox" Style="{StaticResource RoundedTextBox}" Margin="0,5,0,10"/>
+                    <TextBlock Text="Room Number:" Margin="0,5"/>
+                    <TextBox x:Name="RoomNumberTextBox" Style="{StaticResource RoundedTextBox}" Margin="0,5,0,10"/>
 
                     <TextBlock Text="Check-In Date:" Margin="0,5"/>
                     <DatePicker x:Name="CheckInDatePicker" Style="{StaticResource RoundedDatePicker}" Margin="0,5,0,10"/>
@@ -131,7 +131,7 @@
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="ID" Binding="{Binding BookingId}" Width="Auto"/>
                         <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}" Width="*"/>
-                        <DataGridTextColumn Header="Room ID" Binding="{Binding RoomId}" Width="*"/>
+                        <DataGridTextColumn Header="Room Number" Binding="{Binding Room.RoomNumber}" Width="*"/>
                         <DataGridTextColumn Header="Check-In Date" Binding="{Binding CheckInDate, StringFormat=d}" Width="*"/>
                         <DataGridTextColumn Header="Check-Out Date" Binding="{Binding CheckOutDate, StringFormat=d}" Width="*"/>
                         <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice, StringFormat=C}" Width="*"/>

@@ -9,7 +9,7 @@ namespace Repository
     public class GenericRepository<T> where T : class
     {
         private readonly HotelManagementContext _context;
-        private readonly DbSet<T> _dbSet;
+        public readonly DbSet<T> _dbSet;
 
         public GenericRepository()
         {

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Hotel_Management",
+    "\\Hotel_Management\\Management",
+    "\\Hotel_Management\\Management\\Booking",
+    "\\Hotel_Management\\Repository",
+    "\\Hotel_Management\\Repository\\Services"
+  ],
+  "SelectedNode": "\\Hotel_Management\\Management\\Booking\\BookingB.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

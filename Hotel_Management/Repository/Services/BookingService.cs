@@ -35,5 +35,17 @@ namespace Repository.Services
 
                 return query.ToList();
             }
+
+        public List<Booking> searchByIdOrNumber(String keyword)
+        {
+            if(int.TryParse(keyword, out int id))
+            {
+                return _dbSet.Where(b => b.CustomerId.Equals(id)).ToList();
+            } else
+            {
+                return _dbSet.Where(b => b.Room.RoomNumber.Contains(keyword)).ToList();
+            }
+            
+        }
         }
 }

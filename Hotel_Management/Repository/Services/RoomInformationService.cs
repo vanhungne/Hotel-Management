@@ -1,4 +1,5 @@
-﻿using Repository.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,16 @@ namespace Repository.Services
         public new List<RoomInformation> GetAll()
         {
             return GetAllIncluding(r => r.RoomType).ToList();
+        }
+
+        public int GetRoomIdByRoomnumber(int  roomNumber)
+        {
+            if (roomNumber > 0)
+            {
+                RoomInformation roomInformation =(RoomInformation) _dbSet.Where(r => r.RoomNumber.Equals(roomNumber));
+                return roomInformation.RoomId;
+            }
+            return -1;
         }
     }
 }

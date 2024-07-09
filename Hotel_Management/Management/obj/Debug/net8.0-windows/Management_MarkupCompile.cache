@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\
+D:\ki5\PRN212\gitProject\Hotel-Management\Hotel_Management\Management\obj\Debug\net8.0-windows\
 Management
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-H:\Summer 2024\PRN212\Hotel_Management\Management\App.xaml
+D:\ki5\PRN212\gitProject\Hotel-Management\Hotel_Management\Management\App.xaml
 7-1190211841
 
 101677557815
-245795752249
+245619152009
 Booking\BookingB.xaml;CustomerT\CustomerT.xaml;Home\HomePage.xaml;Login\LoginPage.xaml;MainWindow.xaml;RoomInformationR\RoomInfor.xaml;RoomTypes\RoomTypeR.xaml;
 
 False

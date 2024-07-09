@@ -35,12 +35,12 @@ namespace Management.Booking
 
         private void LoadDataGrid()
         {
-            var bookings = bookingService.GetAll().ToList();
+            var bookings = bookingService.GetAll();
             foreach (var booking in bookings)
             {
                 booking.Customer = customerService.GetById(booking.CustomerId);
                 booking.Room = roomInformationService.GetById(booking.RoomId);
-            } 
+            }
            BookingDataGrid.ItemsSource = bookings;
         }
       
@@ -50,7 +50,7 @@ namespace Management.Booking
             if (BookingDataGrid.SelectedItem is Repository.Models.Booking selectedBooking)
             {
                 CustomerIdTextBox.Text = selectedBooking.CustomerId.ToString();
-                RoomIdTextBox.Text = selectedBooking.RoomId.ToString();
+                RoomNumberTextBox.Text = selectedBooking.Room.RoomNumber.ToString();
                 CheckInDatePicker.SelectedDate = selectedBooking.CheckInDate.ToDateTime(TimeOnly.MinValue);
                 CheckOutDatePicker.SelectedDate = selectedBooking.CheckOutDate.ToDateTime(TimeOnly.MinValue);
                 TotalPriceTextBox.Text = selectedBooking.TotalPrice.ToString();
@@ -68,7 +68,7 @@ namespace Management.Booking
                 var newBooking = new Repository.Models.Booking
                 {
                     CustomerId = int.Parse(CustomerIdTextBox.Text),
-                    RoomId = int.Parse(RoomIdTextBox.Text),
+                    RoomId = roomInformationService.GetRoomIdByRoomnumber(int.Parse(RoomNumberTextBox.Text)),
                     CheckInDate = CheckInDatePicker.SelectedDate.HasValue
                         ? DateOnly.FromDateTime(CheckInDatePicker.SelectedDate.Value)
                         : DateOnly.FromDateTime(DateTime.Now),
@@ -99,7 +99,7 @@ namespace Management.Booking
                 try
                 {
                     selectedBooking.CustomerId = int.Parse(CustomerIdTextBox.Text);
-                    selectedBooking.RoomId = int.Parse(RoomIdTextBox.Text);
+                    selectedBooking.RoomId = roomInformationService.GetRoomIdByRoomnumber(int.Parse(RoomNumberTextBox.Text));
                     selectedBooking.CheckInDate = CheckInDatePicker.SelectedDate.HasValue
                          ? DateOnly.FromDateTime(CheckInDatePicker.SelectedDate.Value)
                          : DateOnly.FromDateTime(DateTime.Now);
@@ -155,7 +155,7 @@ namespace Management.Booking
         private void ClearFields()
         {
             CustomerIdTextBox.Clear();
-            RoomIdTextBox.Clear();
+            RoomNumberTextBox.Clear();
             CheckInDatePicker.SelectedDate = null;
             CheckOutDatePicker.SelectedDate = null;
             TotalPriceTextBox.Clear();
@@ -170,15 +170,24 @@ namespace Management.Booking
         private void SearchButton_Click(object sender, RoutedEventArgs e)
         {
             string searchTerm = SearchTextBox.Text.Trim();
-            var searchResults = bookingService.SearchBooking(searchTerm);
-
-            foreach (var booking in searchResults)
+            if(!String.IsNullOrEmpty(searchTerm))
             {
-                booking.Customer = customerService.GetById(booking.CustomerId);
-                booking.Room = roomInformationService.GetById(booking.RoomId);
-            }
+                //var searchResults = bookingService.SearchBooking(searchTerm);
+                var searchResults = bookingService.searchByIdOrNumber(searchTerm);
 
-            BookingDataGrid.ItemsSource = searchResults;
+                foreach (var booking in searchResults)
+                {
+                    booking.Customer = customerService.GetById(booking.CustomerId);
+                    booking.Room = roomInformationService.GetById(booking.RoomId);
+                }
+
+                BookingDataGrid.ItemsSource = searchResults;
+            }
+            else
+            {
+                LoadDataGrid();
+                MessageBox.Show("Please enter a number to search.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
         }
     }
 }

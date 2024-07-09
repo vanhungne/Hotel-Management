@@ -1,0 +1,120 @@
+<Page x:Class="Management.Home.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Hotel Management System - Home"
+      Background="#F0F2F5">
+
+	<Page.Resources>
+		<Style x:Key="MenuButtonStyle" TargetType="Button">
+			<Setter Property="Width" Value="250"/>
+			<Setter Property="Height" Value="60"/>
+			<Setter Property="Margin" Value="0,10"/>
+			<Setter Property="FontSize" Value="16"/>
+			<Setter Property="FontWeight" Value="SemiBold"/>
+			<Setter Property="Foreground" Value="White"/>
+			<Setter Property="Background" Value="#4CAF50"/>
+			<Setter Property="BorderThickness" Value="0"/>
+			<Setter Property="Cursor" Value="Hand"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="Button">
+						<Border Background="{TemplateBinding Background}"
+                                CornerRadius="10">
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+						</Border>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Style.Triggers>
+				<Trigger Property="IsMouseOver" Value="True">
+					<Setter Property="Background" Value="#45a049"/>
+					<Setter Property="Effect">
+						<Setter.Value>
+							<DropShadowEffect ShadowDepth="5" Direction="330" Color="Black" Opacity="0.3" BlurRadius="10"/>
+						</Setter.Value>
+					</Setter>
+				</Trigger>
+				<EventTrigger RoutedEvent="MouseEnter">
+					<BeginStoryboard>
+						<Storyboard>
+							<DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleX)"
+                                             To="1.05" Duration="0:0:0.1"/>
+							<DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleY)"
+                                             To="1.05" Duration="0:0:0.1"/>
+						</Storyboard>
+					</BeginStoryboard>
+				</EventTrigger>
+				<EventTrigger RoutedEvent="MouseLeave">
+					<BeginStoryboard>
+						<Storyboard>
+							<DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleX)"
+                                             To="1" Duration="0:0:0.1"/>
+							<DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleY)"
+                                             To="1" Duration="0:0:0.1"/>
+						</Storyboard>
+					</BeginStoryboard>
+				</EventTrigger>
+			</Style.Triggers>
+		</Style>
+	</Page.Resources>
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!-- Header -->
+		<Border Grid.Row="0" Background="#2C3E50" Height="100">
+			<TextBlock Text="Hotel Management System"
+                       FontSize="32"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+		</Border>
+
+		<!-- Main Content -->
+		<Grid Grid.Row="1">
+			<Grid.Background>
+				<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+					<GradientStop Color="#E0E0E0" Offset="0"/>
+					<GradientStop Color="#FFFFFF" Offset="1"/>
+				</LinearGradientBrush>
+			</Grid.Background>
+
+			<StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+				<Button Content="Manage Customers"
+                        Click="GoToCustomerPage_Click"
+                        Style="{StaticResource MenuButtonStyle}">
+					<Button.RenderTransform>
+						<ScaleTransform/>
+					</Button.RenderTransform>
+				</Button>
+				<Button Content="Manage Room Types"
+                        Click="GoToRoomTypePage_Click"
+                        Style="{StaticResource MenuButtonStyle}">
+					<Button.RenderTransform>
+						<ScaleTransform/>
+					</Button.RenderTransform>
+				</Button>
+                <Button Content="Manage Booking"
+                        Click="GoToBookingPage_Click"
+                        Style="{StaticResource MenuButtonStyle}">
+                    <Button.RenderTransform>
+                        <ScaleTransform/>
+                    </Button.RenderTransform>
+                </Button>
+            </StackPanel>
+		</Grid>
+
+		<!-- Footer -->
+		<TextBlock Grid.Row="1"
+                   Text="© 2023 Hotel Management System"
+                   FontSize="12"
+                   Foreground="#555"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   Margin="0,0,0,10"/>
+	</Grid>
+</Page>

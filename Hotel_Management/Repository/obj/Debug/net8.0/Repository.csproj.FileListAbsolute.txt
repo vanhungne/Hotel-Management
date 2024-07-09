@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Hotel_Management\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\USER\source\repos\Hotel_Management\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\USER\source\repos\Hotel_Management\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\USER\source\repos\Hotel_Management\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\USER\source\repos\Hotel_Management\Repository\obj\Debug\net8.0\ref\Repository.dll
+H:\Summer 2024\PRN212\Hotel_Management\Repository\bin\Debug\net8.0\Repository.deps.json
+H:\Summer 2024\PRN212\Hotel_Management\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+H:\Summer 2024\PRN212\Hotel_Management\Repository\bin\Debug\net8.0\Repository.dll
+H:\Summer 2024\PRN212\Hotel_Management\Repository\bin\Debug\net8.0\Repository.pdb
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.dll
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\refint\Repository.dll
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.pdb
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+H:\Summer 2024\PRN212\Hotel_Management\Repository\obj\Debug\net8.0\ref\Repository.dll

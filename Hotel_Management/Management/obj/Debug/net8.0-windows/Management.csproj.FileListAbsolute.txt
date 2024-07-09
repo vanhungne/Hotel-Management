@@ -1,0 +1,176 @@
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.exe
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.deps.json
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.runtimeconfig.json
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.pdb
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Repository.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\bin\Debug\net8.0-windows\Repository.pdb
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Home\HomePage.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Login\LoginPage.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Booking\BookingB.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\CustomerT\CustomerT.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Home\HomePage.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Login\LoginPage.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomInformationR\RoomInfor.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomTypes\RoomTypeR.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management_MarkupCompile.cache
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management_MarkupCompile.lref
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Booking\BookingB.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\CustomerT\CustomerT.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomInformationR\RoomInfor.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomTypes\RoomTypeR.baml
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.g.resources
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.AssemblyInfo.cs
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.Up2Date
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\refint\Management.dll
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.pdb
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.genruntimeconfig.cache
+C:\Users\USER\source\repos\Hotel_Management\Management\obj\Debug\net8.0-windows\ref\Management.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.AssemblyReference.cache
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Home\HomePage.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Login\LoginPage.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Booking\BookingB.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Home\HomePage.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Login\LoginPage.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomInformationR\RoomInfor.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomTypes\RoomTypeR.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\App.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management_MarkupCompile.cache
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management_MarkupCompile.lref
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.exe
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.deps.json
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.runtimeconfig.json
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Management.pdb
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Repository.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\bin\Debug\net8.0-windows\Repository.pdb
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\CustomerT\CustomerT.g.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Booking\BookingB.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\CustomerT\CustomerT.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\MainWindow.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomInformationR\RoomInfor.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\RoomTypes\RoomTypeR.baml
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.g.resources
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.GeneratedMSBuildEditorConfig.editorconfig
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.AssemblyInfoInputs.cache
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.AssemblyInfo.cs
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.CoreCompileInputs.cache
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.csproj.Up2Date
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\refint\Management.dll
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.pdb
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\Management.genruntimeconfig.cache
+H:\Summer 2024\PRN212\Hotel_Management\Management\obj\Debug\net8.0-windows\ref\Management.dll
